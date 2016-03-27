@@ -143,6 +143,5 @@ namespace ClickWar2.Game.Network
         Req_BuyProduct,
         Ntf_BuyProduct,
 
-
     }
 }
